@@ -50,7 +50,7 @@ An AI Agent capable of handling **login, OTP**, and automatically adding items t
 ---
 
 ## 🏆 Achievements  
-- **GATE Data Analytics 2025** – Rank **1838**  
+- **GATE Data Science and Ai 2025** – Rank **1838**  
 - TEDx NIELIT Aurangabad (Core Team – 2025)  
 - ASCEND 2024 (Chess Coordinator)  
 - Group Leader, IITMBS (1 year)  
