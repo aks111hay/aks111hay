@@ -43,7 +43,7 @@ An AI Agent capable of handling **login, OTP**, and automatically adding items t
 
 ---
 
-### 🎓 TDS Virtual TA [🔗 Demo](https://dashboard.render.com/web/srv-d180ndvdiees73f94i7g)  
+### 🎓 TDS Virtual TA  
 - RAG-based Virtual Teaching Assistant.  
 - Uses **OpenAI embeddings + web scraping** for intelligent academic Q&A.  
 
